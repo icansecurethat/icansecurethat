@@ -26,6 +26,6 @@
 </pre>
 <pre>
     Cybersecurity Engineer
-    Python • Pentesting • Go
-    [Hacknotcrime](https://www.hackingisnotacrime.org/) 
+    Python • Pentesting • Linux
+    <a href="https://www.hackingisnotacrime.org">Hacknotcrime.org</a>
 </pre>
